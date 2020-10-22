@@ -1,0 +1,1 @@
+# rubywasm-worker-template
